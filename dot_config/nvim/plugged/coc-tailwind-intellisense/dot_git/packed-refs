@@ -1,0 +1,20 @@
+# pack-refs with: peeled fully-peeled sorted 
+9996b15120b6e146b28186bbbd081f3e7770a203 refs/remotes/origin/dependabot/npm_and_yarn/ajv-6.12.6
+5958e97e47dd737fca12ddcc3d28c115425bc396 refs/remotes/origin/dependabot/npm_and_yarn/dset-3.1.2
+cf91a95fd880c84efd817b9de93260e4879b5fad refs/remotes/origin/dependabot/npm_and_yarn/elliptic-6.5.4
+1c08cc1d50675e60ba8ace02790d3340ccb9aa92 refs/remotes/origin/dependabot/npm_and_yarn/follow-redirects-1.14.8
+782d374253ae8d2749f6d652fe3c177f47fa9361 refs/remotes/origin/dependabot/npm_and_yarn/hosted-git-info-2.8.9
+428f55815856218adb9fb56700bada36f4f0385f refs/remotes/origin/dependabot/npm_and_yarn/lodash-4.17.21
+4beeefda5c68aa3c68b91b59e8d45ebc8c90f6bc refs/remotes/origin/dependabot/npm_and_yarn/minimist-1.2.6
+b5f8a5e74f28d14cc3c194dc862f76aea0aafa0b refs/remotes/origin/dependabot/npm_and_yarn/path-parse-1.0.7
+a2bb788fe70ebc5f1e779088a64b068ac01d64cc refs/remotes/origin/dependabot/npm_and_yarn/postcss-7.0.36
+83e7ac076016e38ee5d11d94ef711ab3349f5b52 refs/remotes/origin/dependabot/npm_and_yarn/ssri-6.0.2
+de629b790e7bcd516f74d620309315a9b10512a6 refs/remotes/origin/dependabot/npm_and_yarn/tar-4.4.19
+1bed7e2a989157fd38c39565aacd3a08315ca8d2 refs/remotes/origin/dependabot/npm_and_yarn/y18n-4.0.1
+129fbd9dc33f6f7d3daa5e1e0b98dc4352f30290 refs/remotes/origin/master
+f5f02003156c52d5cd8d7835c283bc8770dcf4a7 refs/remotes/origin/optional-langs
+d7c85e1b01afd0dd705c4bde121cfb46d8ae926e refs/tags/0.0.1
+d667417c332e5483fda8728d984ca6d26f126a41 refs/tags/0.0.2
+b94a9b26bece5137617460cbb24d46ed30b3ab77 refs/tags/0.2
+9242f9a86d0534971392df77733dc9677b4b9f7c refs/tags/0.3
+62846afd7991da59e62feaa5f092df24cf1fb461 refs/tags/0.4

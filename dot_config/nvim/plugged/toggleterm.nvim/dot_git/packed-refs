@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled sorted 
+1732e00bf525168aaf56223735133092f44e1e0c refs/remotes/origin/feature/winbar
+f4637c80b400c1812ace254827fa18c8ae323d30 refs/remotes/origin/highlights
+c525442a03b7bb229c48874abf53168eb38c5b9b refs/remotes/origin/main
+92a3e0395a2793b0b54d2fa25f104e3a28f5331c refs/tags/v1.0.0
+^443afa9e02a5935be7e3cfc54ed94aae712f5f6c
+f7a66415d8006a82c94486eda54b4cde58e3b2f3 refs/tags/v2.0.0
+^e783fd4466a30658821c27418defd6bf0060e3c9

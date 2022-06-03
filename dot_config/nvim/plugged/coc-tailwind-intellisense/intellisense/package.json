@@ -1,0 +1,10 @@
+{
+  "name": "vscode-tailwindcss",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
