@@ -4,7 +4,8 @@
 "$HOME/.config/bspwm/clean" &
 
 #Monitor
-xrandr --output DP-0 --mode 2560x1440 --rate 144.00 --output DVI-D-1 --mode 1920x1080 --rate 60.00
+display=$(xrandr -q | grep " connected" | cut -d ' ' -f1)
+xrandr --output $display --mode 2560x1440 --rate 144.00 --output DVI-D-1 --mode 1920x1080 --rate 60.00
 
 sleep 0.50
 
@@ -31,7 +32,7 @@ xsetroot -cursor_name left_ptr
 setxkbmap -layout it
 
 #Monitor Config
-bspc monitor DP-0 -d 1 2 3 4 5 6 7 8 9 10
+bspc monitor $display -d 1 2 3 4 5 6 7 8 9 10
 bspc monitor DVI-D-1 
 
 #Mouse Scroll Wheel
