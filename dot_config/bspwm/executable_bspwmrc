@@ -13,7 +13,7 @@ sleep 0.50
 bash ~/.config/polybar/launch.sh --colorblocks &
 feh --bg-fill ~/Pictures/Background/bg.jpg &
 
-xwinwrap -g 1920x1080 -d -fs -fdt -ni -b -nf -un -o 1.0 -debug -- mpv -wid WID --loop --no-audio "/home/stiwie/Pictures/Live_Backgrounds/snowfall.mp4"
+#xwinwrap -g 1920x1080 -d -fs -fdt -ni -b -nf -un -o 1.0 -debug -- mpv -wid WID --loop --no-audio "/home/stiwie/Pictures/Live_Backgrounds/snowfall.mp4"
 
 # Make sure sxhkd is always running
 while :; do
