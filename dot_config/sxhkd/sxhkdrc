@@ -28,6 +28,13 @@ alt + shift + p
 # bspwm hotkeys
 #
 
+# expand/contract a window 
+alt + control + shift + {h,j,k,l}
+  bspc node -z {left -20 0 || bspc node -z right -20 0, \
+                bottom 0 20 || bspc node -z top 0 20,\
+                top 0 -20 || bspc node -z bottom 0 -20,\
+                right 20 0 || bspc node -z left 20 0}
+
 # quit/restart bspwm
 super + alt + {q,r}
 	bspc {quit,wm -r}
