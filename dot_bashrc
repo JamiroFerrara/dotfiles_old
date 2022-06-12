@@ -106,6 +106,7 @@ if ! shopt -oq posix; then
 fi
 
 #udevadm trigger --subsystem-match=input --action=change
+#test
 
 #Keyboard setting
 setxkbmap it
